@@ -1,0 +1,32 @@
+body{
+	background-color:#232323;
+}
+
+
+.box{
+
+	width: 30%;
+	height: 20%;
+	background-color:blue;
+	padding-bottom: 30%;
+	margin:1.66%;
+	float: left;
+}
+
+.container{
+	max-width: 600px;
+	margin: 0 auto;
+}
+
+h1{
+	color: white;
+	text-align: center;
+}
+#message{
+	color: white;
+	text-align:center;
+}
+
+#vikas{
+	text-align: center;
+}
