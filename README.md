@@ -1,2 +1,7 @@
-# color-game
- just a small mind game
+# Color-Game
+ 
+Just a small mind game develop with the help of javascript.
+
+
+
+
